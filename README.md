@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on serval project's C# .NET like WPF and ASP
+- 🔭 I’m currently working on serval project's C# .NET with WPF and ASP
 - 🌱 I’m currently learning C# .NET and cloud Azure
 - 👯 I’m looking to collaborate on Prejects using the patern MVVM and MVC
 - 🤔 I’m looking for help with another developers of .NET
