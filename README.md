@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on serval project's C# .NET with WPF and ASP
 - 🌱 I’m currently learning C# .NET and cloud Azure
-- 👯 I’m looking to collaborate on Prejects ASP and WPF using the patern MVVM and MVC
+- 👯 I’m looking to collaborate on ASP and WPF Prejects using the patern MVVM and MVC
 - 🤔 I’m looking for help with another developers of .NET
 - 💬 Ask me about anythings
 - 📫 How to reach me: +22790841323 or moussaismaguel01@gmail.com
